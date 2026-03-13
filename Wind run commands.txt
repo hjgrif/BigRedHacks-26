@@ -1,0 +1,6 @@
+#powershell
+.\WikiBloom_Win.ps1
+
+
+#May have to set policy to (Mine could be already set)
+Set-ExecutionPolicy RemoteSigned
